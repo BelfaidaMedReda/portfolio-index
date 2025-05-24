@@ -5,7 +5,7 @@ The main tools and concepts used are:
 
 - Geometric Modeling / Geometry
 - Monte Carlo Methods
-- C++ / Python 
+- C++ / Python / Freefem++
 
 ## List of Projects
 
@@ -28,3 +28,14 @@ The main tools and concepts used are:
 > This project explores various interpolation methods used in Geometric Modeling.
 
 [View Project ➜](https://github.com/BelfaidaMedReda/Geometric-Modeling)
+
+### 🔹 Particles System's Evolution simulation
+> This project builds a C++ simulator for particle dynamics in customizable 1D–3D cellular spaces with VTK output for ParaView visualization.
+
+[View Project ➜](https://github.com/BelfaidaMedReda/Particles-System-s-Simulation)
+
+
+### 🔹 Variational Methods applied to Modeling
+> This project developes and compares spectral and finite element methods for wave equation simulations, and implemented a Bloch eigenvalue solver for graphene energy band computation using complex-valued finite elements in FreeFEM++ with Python-based postprocessing.
+
+[View Project ➜](https://github.com/BelfaidaMedReda/Variational-Methods-Applied-to-Modeling-Project)
